@@ -1,6 +1,5 @@
 from math import *
 from numpy import *
-from fib import *
 def fib(n):
 	F =[[1,1],[1,0]]
 	if (n == 0):
